@@ -1,0 +1,15 @@
+{
+  "name": "whatthecup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/source.css -o project/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwind": "^4.0.0"
+  }
+}
